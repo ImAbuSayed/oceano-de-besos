@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Océano de besos
+
+This log tracks the cryptographic history and versioning for the song **Océano de besos** (oceano-de-besos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:25:39.033571 | `v1` | `b3c84698ff0e49c0f9703e50d0cdfef0ce675d7c5725d9cfbb4535c563dbb8c8` | `6a00719bb1be765f74bb8aea5ababdb3bf836d00a34e945aeec6bed795ab97b5` | `2026-06-22_oceano-de-besos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

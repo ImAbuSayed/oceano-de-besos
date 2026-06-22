@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/oceano-de-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Océano de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/oceano-de-besos/) |
+| **Get License** | [Get License For Océano de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/oceano-de-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b3c84698ff0e49c0f9703e50d0cdfef0ce675d7c5725d9cfbb4535c563dbb8c8` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
