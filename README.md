@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/oceano-de-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Océano de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/oceano-de-besos/) |
+| **Get License** | [Request Licensing for Océano de besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/oceano-de-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme esta noche en tus mares
+> Sentir tu fuego encendiendo mis planes
+> Tus labios me llaman y no hay quien me pare
+> En este océano de besos sin finales
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
